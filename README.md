@@ -1,4 +1,4 @@
-# Constant Product AMM – Simple Uniswap Clone in Solidity
+# Constant Product AMM – in Solidity
 
 This project is a simple version of how **Uniswap** works. It's a smart contract written in **Solidity** that lets you:
 
